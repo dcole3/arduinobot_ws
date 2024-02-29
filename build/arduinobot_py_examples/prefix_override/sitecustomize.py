@@ -1,3 +1,3 @@
 import sys
 sys.real_prefix = sys.prefix
-sys.prefix = sys.exec_prefix = '/home/dcole3/arduinobot_ws/install/arduinobot_py_examples'
+sys.prefix = sys.exec_prefix = '/home/dcole3/GitHub/arduinobot_ws/install/arduinobot_py_examples'
